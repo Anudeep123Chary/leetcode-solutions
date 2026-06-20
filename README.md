@@ -13,4 +13,5 @@
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [1280-students-and-examinations](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
