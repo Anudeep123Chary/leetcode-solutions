@@ -1,24 +1,21 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        
-        for(int num : nums) {
-            if(map.containsKey(num)) {
-                map.put(num, map.get(num)+1);
+        boolean[] map = new boolean[nums.length];
+        int[] result = new int[2];
+        for(int i=0;i<nums.length;i++){
+            if(map[nums[i]-1]){
+                //operation
+                result[0] = nums[i];
             }
             else {
-                map.put(num, 1);
+                map[nums[i]-1] = true;
             }
         }
-        int[] mismatch = new int[2];
-        for(int i=1; i<=nums.length; i++){
-            if(!map.containsKey(i)){
-                mismatch[1] = i;
-            }
-            else if(map.get(i) == 2) {
-                mismatch[0] = i;
+        for(int i=0;i<map.length;i++){
+            if(map[i]==false){
+                result[1]=i+1;
             }
         }
-        return mismatch;
+        return result;
     }
 }
