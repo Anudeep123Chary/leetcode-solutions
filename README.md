@@ -45,8 +45,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
