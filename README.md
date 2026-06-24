@@ -31,6 +31,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
