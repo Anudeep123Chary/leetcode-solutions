@@ -17,6 +17,7 @@
 | [0577-employee-bonus](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0619-biggest-single-number](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [1075-project-employees-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1729-find-followers-count](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1729-find-followers-count) |
 ## Array
