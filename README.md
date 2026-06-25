@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -51,9 +52,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
