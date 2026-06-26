@@ -20,6 +20,7 @@
 | [1075-project-employees-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1729-find-followers-count](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1729-find-followers-count) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Array
 |  |
 | ------- |
