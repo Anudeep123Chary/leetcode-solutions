@@ -33,12 +33,14 @@
 | [0053-maximum-subarray](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0136-single-number) |
+| [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -50,6 +52,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -83,4 +86,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0055-jump-game) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
