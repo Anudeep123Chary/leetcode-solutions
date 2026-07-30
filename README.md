@@ -61,6 +61,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [2544-alternating-digit-sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 ## String
 |  |
 | ------- |
