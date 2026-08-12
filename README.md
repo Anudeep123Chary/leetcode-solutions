@@ -75,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 ## Divide and Conquer
 |  |
 | ------- |
