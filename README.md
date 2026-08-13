@@ -54,6 +54,7 @@
 | [0136-single-number](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 ## String
 |  |
