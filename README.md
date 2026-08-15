@@ -12,6 +12,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -61,6 +63,7 @@
 | [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
