@@ -41,6 +41,7 @@
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
