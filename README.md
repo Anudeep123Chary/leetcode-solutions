@@ -11,6 +11,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
@@ -35,6 +36,7 @@
 | [0053-maximum-subarray](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1486-xor-operation-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 ## String
