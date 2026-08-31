@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 ## Divide and Conquer
