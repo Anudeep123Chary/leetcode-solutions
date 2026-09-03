@@ -17,6 +17,7 @@
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Database
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
