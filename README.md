@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0136-single-number) |
@@ -137,6 +139,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0860-lemonade-change) |
