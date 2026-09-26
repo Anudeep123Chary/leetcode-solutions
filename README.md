@@ -42,6 +42,7 @@
 | [1280-students-and-examinations](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1729-find-followers-count) |
+| [1934-confirmation-rate](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Array
 |  |
