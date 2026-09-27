@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -123,6 +124,7 @@
 | [0242-valid-anagram](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
