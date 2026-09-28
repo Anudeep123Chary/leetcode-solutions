@@ -83,6 +83,7 @@
 | [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -124,6 +125,7 @@
 | [0242-valid-anagram](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -189,5 +191,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
