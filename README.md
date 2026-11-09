@@ -15,6 +15,7 @@
 | [0015-3sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -54,6 +55,7 @@
 | [0011-container-with-most-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0136-single-number) |
@@ -145,10 +147,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0055-jump-game) |
 ## Recursion
@@ -201,4 +205,8 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
