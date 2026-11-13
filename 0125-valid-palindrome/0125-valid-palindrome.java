@@ -12,10 +12,9 @@ class Solution {
         }
 
         int left = 0;
-        int right = sb.length() - 1;
+        int right = sb.length()-1;
 
         while(left < right) {
-
             if(sb.charAt(left++) != sb.charAt(right--)) {
                 return false;
             }
