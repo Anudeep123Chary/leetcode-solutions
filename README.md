@@ -92,6 +92,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
@@ -138,6 +139,7 @@
 | [1768-merge-strings-alternately](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quicksort
 |  |
 | ------- |
