@@ -1,25 +1,24 @@
 class Solution {
     public int maxFreqSum(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] freq = new int[26];
 
-        int vowel = 0;
-        int consonant = 0;
-        
-        for( char ch : s.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        for(char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
 
-        for(Map.Entry<Character, Integer> entry : map.entrySet() ) {
+        int maxVowel = 0;
+        int maxConsonant = 0;
 
-            char ch = entry.getKey();
-            int freq = entry.getValue();
+        for(int i=0; i<26; i++) {
+
+            char ch = (char)(i + 'a');
 
             if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-                vowel = Math.max(vowel, freq);
+                maxVowel = Math.max(maxVowel, freq[i]);
             } else {
-                consonant = Math.max(consonant, freq);
+                maxConsonant = Math.max(maxConsonant, freq[i]);
             }
         }
-        return vowel+consonant;
+        return maxVowel + maxConsonant;
     }
 }
