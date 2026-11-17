@@ -69,6 +69,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -189,6 +191,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
