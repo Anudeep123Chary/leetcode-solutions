@@ -1,17 +1,13 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for(int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
+        
+        HashSet<Integer> set = new HashSet<>();
 
         int[] arr = new int[2];
         int idx = 0;
-        for(Map.Entry<Integer, Integer> entry: map.entrySet()) {
-            if(entry.getValue() == 2){
-                arr[idx++] = entry.getKey();
+        for(int num : nums) {
+            if(!set.add(num)) {
+                arr[idx++] = num;
             }
         }
         return arr;
