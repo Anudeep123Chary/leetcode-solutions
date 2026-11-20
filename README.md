@@ -27,6 +27,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Database
 |  |
@@ -79,6 +80,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1534-count-good-triplets](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -119,6 +121,7 @@
 | [0645-set-mismatch](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -205,6 +208,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
