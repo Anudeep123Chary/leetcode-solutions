@@ -144,6 +144,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -178,10 +179,12 @@
 | [0055-jump-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quicksort
 |  |
