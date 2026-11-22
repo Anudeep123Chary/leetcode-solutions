@@ -84,6 +84,7 @@
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -131,6 +132,7 @@
 | [0189-rotate-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1486-xor-operation-in-an-array](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
