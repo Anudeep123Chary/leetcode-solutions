@@ -152,6 +152,7 @@
 | [1768-merge-strings-alternately](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2942-find-words-containing-character](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -209,6 +210,7 @@
 | [0682-baseball-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
