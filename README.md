@@ -88,6 +88,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3467-transform-array-by-parity](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quicksort
 |  |
