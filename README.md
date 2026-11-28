@@ -194,6 +194,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1603-design-parking-system](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [3467-transform-array-by-parity](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quicksort
@@ -215,6 +216,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1603-design-parking-system](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1534-count-good-triplets) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Anudeep123Chary/leetcode-solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
